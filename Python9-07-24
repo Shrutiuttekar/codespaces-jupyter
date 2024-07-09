@@ -1,0 +1,3 @@
+kmperhr=input("Enter the kilometers which you want to convert it into minutes per second")
+minpersec=kmperhr(5/18)
+print("Conversion of{kmperhr} per hour into minute per second is{minpersec}")
